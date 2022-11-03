@@ -1,10 +1,10 @@
-package be.leanderonline.demo;
+package be.leanderonline.adarkroom;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class ADarkRoomApplicationTests {
 
 	@Test
 	void contextLoads() {

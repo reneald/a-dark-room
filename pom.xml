@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>be.leanderonline</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>a-dark-room</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>a-dark-room</name>
+	<description>Trying to copy the famous game A Dark Room in Java</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
