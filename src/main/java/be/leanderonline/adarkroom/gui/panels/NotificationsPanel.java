@@ -12,7 +12,7 @@ public class NotificationsPanel extends JPanel {
 
     public NotificationsPanel() {
         this.setPreferredSize(new Dimension(250, 1100));
-        this.setBackground(Color.WHITE);
-        this.setLayout(new GridLayout(1, 2));
+        this.setLayout(new GridLayout(1, 1));
+        this.add(new JTextArea("notification"));
     }
 }
